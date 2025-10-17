@@ -1,0 +1,92 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsp
+*.vspx
+*.psess
+*.pdb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.opendb
+*.ipch
+*.tlog
+*.lastbuildstate
+*.log
+*.ch
+*.pch
+*.obj
+*.iobj
+*.idb
+*.ilk
+*.ipdb
+*.ncb
+*.opendb
+*.res
+*.rpt
+
+# Build directories
+[Bb]in/
+[Bb]uild/
+[Ii]ntermediate/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+ipch/
+
+# CMake and make artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# NuGet
+packages/
+*.nupkg
+*.nuspec
+.nuget/
+PackageRestore.log
+
+# vcpkg artifacts
+vcpkg_installed/
+vcpkg_*_manifest.*
+
+# Python
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
+npm-debug.log
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor folders
+.idea/
+.vscode/
+
+# Documentation build artifacts
+docs/_build/
+
+# Generated archives
+*.zip
+*.tar
+*.gz
+*.7z
